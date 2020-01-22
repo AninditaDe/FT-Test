@@ -1,2 +1,2 @@
 # FT-Test
-Repository of the solution of the test
+This repository contains solution of the Test.
