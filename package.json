@@ -1,0 +1,14 @@
+{
+  "name": "npm-multipleurl-package",
+  "version": "1.0.0",
+  "description": "A demo package for test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Anindita <aninditade2@gmail.com>",
+  "license": "ISC"
+}
