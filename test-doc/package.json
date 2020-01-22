@@ -1,0 +1,14 @@
+{
+  "name": "test-doc",
+  "version": "1.0.0",
+  "description": "Testing JS package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "npm-multipleurl-package": "^1.0.0"
+  }
+}
